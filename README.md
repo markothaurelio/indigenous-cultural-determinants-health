@@ -129,20 +129,6 @@ Libraries used:
 
 ---
 
-# Project Structure
-
-```
-data/
-    ABS_Cultural_Determinants.xlsx
-
-scripts/
-    cultural_health_visualisation.py
-
-images/
-    fig1_health_gap.png
-    fig2_family_removal.png
-    fig3_cultural_knowledge.png
-    fig4_language_home.png
 
 README.md
 ```
